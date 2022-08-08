@@ -20,7 +20,7 @@ ng serve
 
 ## 📫 Contribuindo para calculadora  
 
-Para contribuir com o conversor de moedas, siga estas etapas:
+Para contribuir com a calculadora, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
